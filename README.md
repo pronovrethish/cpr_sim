@@ -1,7 +1,6 @@
----
+# CPR SIM
 
-##CPR SIM
-a beginner-friendly, repeatable Virtual Reality simulation for learning basic CPR (30:2 cycles), pulse checking, and emergency response procedures. Built with Unity and designed to run on Google Cardboard or on a desktop for testing.
+**CPR SIM** — a beginner-friendly, repeatable Virtual Reality simulation for learning basic CPR (30:2 cycles), pulse checking, and emergency response procedures. Built with Unity and designed to run on Google Cardboard or on a desktop for testing.
 
 ---
 
@@ -233,9 +232,9 @@ To change material/color of an object:
 
 ### Scene changes not appearing in build
 
-* Save scene: `File → Save` (or `Ctrl+S`).
-* Add open scene to Build Settings: `File → Build Settings → Add Open Scenes`.
-* Use a new build output folder to avoid old build caching.
+* ✅ Save scene: `File → Save` (or `Ctrl+S`).
+* ✅ Add open scene to Build Settings: `File → Build Settings → Add Open Scenes`.
+* ✅ Use a new build output folder to avoid old build caching.
 
 ### Color/material not changing on click
 
