@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Environment.unity
+    guid: 56da1fbd2c7a71e49a5329f9d5b8b460
+  - enabled: 0
+    path: Assets/Exterior_swimming_pool/Scene/exterior_swimming_pool.unity
+    guid: 540a5db935df133428936bb1e88fcb99
+  - enabled: 0
+    path: Assets/VR-CPR1.unity
+    guid: ca678d3cb8740234faf08294851b9456
+  - enabled: 1
+    path: Assets/Scenes/edited_pool.unity
+    guid: 4141a62e1810fb3469b3b72ae4e6b4a7
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c0667c1bc2229cb469d14d9bf137449a, type: 2}
