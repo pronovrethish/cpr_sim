@@ -1,6 +1,7 @@
 ---
 
-**CPR SIM** — a beginner-friendly, repeatable Virtual Reality simulation for learning basic CPR (30:2 cycles), pulse checking, and emergency response procedures. Built with Unity and designed to run on Google Cardboard or on a desktop for testing.
+##CPR SIM
+a beginner-friendly, repeatable Virtual Reality simulation for learning basic CPR (30:2 cycles), pulse checking, and emergency response procedures. Built with Unity and designed to run on Google Cardboard or on a desktop for testing.
 
 ---
 
